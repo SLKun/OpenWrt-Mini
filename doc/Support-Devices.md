@@ -32,6 +32,8 @@ pine64_rockpro64
 
 radxa_rock-pi-4
 
+xunlong_orangepi-r1-plus
+
 > 下载地址:
 >
 > https://openwrt.cc/snapshots/targets/rockchip/armv8/
